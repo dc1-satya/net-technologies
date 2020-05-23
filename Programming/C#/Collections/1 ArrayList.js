@@ -1,4 +1,5 @@
 ArrayList stores objects of any type like an array.
+https://www.tutorialsteacher.com/csharp/csharp-arraylist
 
 ArrayList myArryList = new ArrayList();// Recommended
 
